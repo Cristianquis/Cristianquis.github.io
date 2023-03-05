@@ -1,0 +1,28 @@
+p { 
+    color: red;
+    width: 300px;
+
+}
+
+h1 {
+    color: blue;
+    width: 600px;
+    border: 10px solid black;
+    margin-top: 30PX;
+    margin-bottom: 10PX;
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Tilt Prism', cursive;
+
+}
+
+#mi_parrafo {
+    color: rgb(0, 255, 115);
+    margin-bottom: 600px;
+    font-size: 24px;
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
